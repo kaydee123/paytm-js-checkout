@@ -65,7 +65,7 @@ class ReceivePaymentProvider extends PaytmProvider{
 				"currency"  => "INR",
 			),
 			"userInfo"      => array(
-				"custId"    => $this->parameters['email'],
+				"custId"    => $this->parameters['user'],
 			),
 		);
 		/*
