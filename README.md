@@ -3,7 +3,7 @@ For Laravel 5.0 and above
 ## Getting Started
 To get started add the following package to your `composer.json` file using this command.
 
-    composer require paytm/js-checkout
+    composer require ilinkio/js-checkout
 
 ## Configuring
 **Note: For Laravel 5.5 and above auto-discovery takes care of below configuration.**
